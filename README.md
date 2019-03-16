@@ -1,1 +1,3 @@
-#Tech Structures 
+# Tech Structures
+
+Guide to data structures
